@@ -62,21 +62,3 @@ College-Placement-Management-System/
 * Placement drive information.
 * Basic form interactions using JavaScript.
 
-## ⚠️ Limitations
-
-This project is a front-end demonstration. Login and registration are not connected to a backend or database, so student details are not permanently stored.
-
-## 🚀 Future Enhancements
-
-* Connect the system to a database.
-* Add secure student and administrator login.
-* Allow students to apply for job openings.
-* Enable administrators to manage placement records.
-
-## 👨‍💻 Author
-
-**B.Tech Second-Year Student**
-
-## 📄 License
-
-This project is created for educational and academic purposes.
